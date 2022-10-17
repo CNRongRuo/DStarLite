@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DStarLite", "DStarLite\DStarLite.csproj", "{DEF4BD33-D4D3-4FDC-BA37-3D066744A0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF4BD33-D4D3-4FDC-BA37-3D066744A0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF4BD33-D4D3-4FDC-BA37-3D066744A0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF4BD33-D4D3-4FDC-BA37-3D066744A0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF4BD33-D4D3-4FDC-BA37-3D066744A0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51FEDEBF-7776-444F-AA86-F542F259BA5A}
+	EndGlobalSection
+EndGlobal
